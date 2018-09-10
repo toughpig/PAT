@@ -1,4 +1,4 @@
-//ÊäÈëÊ±Ö±½ÓÅÐ¶Ï×î¸ßÓë×îµÍ£¬ÒòÎª³É¼¨distinct
+//è¾“å…¥æ—¶ç›´æŽ¥åˆ¤æ–­æœ€é«˜ä¸Žæœ€ä½Ž
 #include<cstdio>
 #include<string>
 #include<cstring>
