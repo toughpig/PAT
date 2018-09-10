@@ -12,3 +12,4 @@
 9.10|[1002 写出这个数（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1002.cpp)|字符串处理
 9.10|[1003 我要通过！（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1003.cpp)|字符串处理，理解题意，样例
 9.10|[1004 成绩排名（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1004.cpp)|查找
+9.10|[1004 Counting Leaves（30 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/A1004.cpp)|dfs
