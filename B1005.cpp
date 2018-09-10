@@ -1,14 +1,10 @@
-//Ö±½Ó´ò±í¸²¸Ç
+//ç›´æ¥æ‰“è¡¨è¦†ç›–
 #include<cstdio>
-#include<map>
-#include<vector>
-#include<algorithm>
-using namespace std; 
 
 const int maxn=105;
 int n;
 bool cnted[maxn]={false};
-bool ans[maxn]={false};//¼ÇÂ¼Î´±»¸²¸ÇµÄÊı 
+bool ans[maxn]={false};//è®°å½•æœªè¢«è¦†ç›–çš„æ•° 
 int cnt=0;
 int temp;
 
@@ -21,11 +17,11 @@ int main(){
 			while(temp!=1){
 				if(temp%2) temp=(temp*3+1)/2;
 				else temp/=2;
-				if(temp>=maxn) continue;  //·ÀÖ¹Êı×éÔ½½ç£¬²¢ÇÒÔ½½çµÄÊıÃ»ÓÃ 
+				if(temp>=maxn) continue;  //é˜²æ­¢æ•°ç»„è¶Šç•Œï¼Œå¹¶ä¸”è¶Šç•Œçš„æ•°æ²¡ç”¨ 
 				cnted[temp]=true;
 				if(ans[temp]==true){
 					ans[temp]=false;
-					break;   //tempÒÑ¾­Ëã¹ı 
+					break;   //tempå·²ç»ç®—è¿‡ 
 				}
 			}
 		}
