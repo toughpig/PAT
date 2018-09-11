@@ -19,3 +19,6 @@
 9.10|[1003 我要通过！（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1003.cpp)|字符串处理，理解题意，样例
 9.10|[1004 成绩排名（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1004.cpp)|online
 9.10|[1005 继续(3n+1)猜想（25 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1005.cpp)|打表
+9.11|[1006 换个格式输出整数（15 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1006.cpp)|格式输出
+9.11|[1007 素数对猜想（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1007.cpp)|素数，埃式筛法
+9.11|[1008 数组元素循环右移问题（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1008.cpp)|格式输出
