@@ -6,6 +6,7 @@
 9.10|[1003 Emergency（25 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/A1003.cpp)|dijkstra,点权
 9.10|[1004 Counting Leaves（30 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/A1004.cpp)|dfs
 
+--------
 # PAT_Basic-level
 日期|题号|类型
 -|:-:|:-:
