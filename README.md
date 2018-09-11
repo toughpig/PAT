@@ -1,3 +1,9 @@
+# PAT_Top-level
+日期|题号|类型
+-|:-:|:-:
+9.11|[1001 Battle Over Cities - Hard Version（35 分）](https://github.com/toughpig/PAT/blob/master/T1001.cpp)|并查集，Kruskal
+
+----------------------
 # PAT_Advanced-level
 日期|题号|类型
 -|:-:|:-:
