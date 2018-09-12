@@ -1,4 +1,4 @@
-//online
+//online，double判断为零eps比较
 #include<cstdio>
 #include<vector>
 #include<algorithm>
