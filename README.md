@@ -2,7 +2,7 @@
 日期|题号|类型
 -|:-:|:-:
 9.11|[1001 Battle Over Cities - Hard Version（35 分）](https://github.com/toughpig/PAT/blob/master/T1001.cpp)|并查集，Kruskal
-9.12|[（暂时没有AC_32/35）1002 Business （35 分）](https://github.com/toughpig/PAT/blob/master/_T1002.cpp)|dfs，01背包
+9.12|[（暂未AC_32/35）1002 Business （35 分）](https://github.com/toughpig/PAT/blob/master/_T1002.cpp)|dfs，01背包
 
 ----------------------
 # PAT_Advanced-level
