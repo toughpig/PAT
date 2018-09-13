@@ -17,6 +17,7 @@
 9.11|[1007 Maximum Subsequence Sum（25 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/A1007.cpp)|最大连续子列和
 9.11|[1008 Elevator（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/A1008.cpp)|模拟，online
 9.12|[1009 Product of Polynomials （25 分）](https://github.com/toughpig/PAT/blob/master/A1009.cpp)|online，浮点数判零eps
+9.13|[1010 Radix （25 分）](https://github.com/toughpig/PAT/blob/master/A1010.cpp)|大数运算，溢出判断，二分，细节
 
 --------
 # PAT_Basic-level
