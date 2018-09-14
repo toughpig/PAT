@@ -33,3 +33,4 @@
 9.11|[1006 换个格式输出整数（15 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1006.cpp)|格式输出
 9.11|[1007 素数对猜想（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1007.cpp)|素数，埃式筛法
 9.11|[1008 数组元素循环右移问题（20 分）](https://github.com/toughpig/PAT_Advanced-level/blob/master/B1008.cpp)|格式输出
+9.14|[1009 说反话 （20 分）](https://github.com/toughpig/PAT/blob/master/B1009.cpp)|字符串输入输出
