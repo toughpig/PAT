@@ -20,6 +20,7 @@
 9.13|[1010 Radix （25 分）](https://github.com/toughpig/PAT/blob/master/A1010.cpp)|大数运算，溢出判断，二分，细节
 9.13|[1011 World Cup Betting （20 分）](https://github.com/toughpig/PAT/blob/master/A1011.cpp)|online
 9.14|[1012 The Best Rank （25 分）](https://github.com/toughpig/PAT/blob/master/A1012.cpp)|数据处理，排序，索引
+8.2|[1152 Google Recruitment (20 分)](https://github.com/toughpig/PAT/blob/master/A1152.cpp)|字符串处理，素数
 
 --------
 # PAT_Basic-level
