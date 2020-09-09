@@ -1,0 +1,1 @@
+qemu-system-riscv64 -M virt -cpu rv64  -m 1G -nographic     -kernel kernel -initrd initrd -device virtio-blk-device,drive=hd -drive file=image.qcow2,if=none,id=hd  -device virtio-net-device,netdev=net -netdev user,id=net,hostfwd=tcp::2223-:22  -object rng-random,filename=/dev/urandom,id=rng -device virtio-rng-device,rng=rng -nographic -append "root=LABEL=rootfs console=ttyS0"
